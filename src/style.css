@@ -1,0 +1,8 @@
+.my-background {
+    background-image: url('./assets/2.jpeg'); /* Replace with your image path */
+    background-size: cover; /* Adjusts the size of the background image to cover the entire element */
+    background-position: center; /* Centers the background image */
+    background-repeat: no-repeat; /* Prevents the image from repeating */
+   
+  }
+  
