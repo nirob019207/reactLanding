@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/reactLanding/static/css/main.7cfb2b9c.css",
+    "main.js": "/reactLanding/static/js/main.6c06d197.js",
+    "static/js/453.898ec4a8.chunk.js": "/reactLanding/static/js/453.898ec4a8.chunk.js",
+    "index.html": "/reactLanding/index.html",
+    "main.7cfb2b9c.css.map": "/reactLanding/static/css/main.7cfb2b9c.css.map",
+    "main.6c06d197.js.map": "/reactLanding/static/js/main.6c06d197.js.map",
+    "453.898ec4a8.chunk.js.map": "/reactLanding/static/js/453.898ec4a8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7cfb2b9c.css",
+    "static/js/main.6c06d197.js"
+  ]
+}
